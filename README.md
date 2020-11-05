@@ -36,7 +36,8 @@ GIF created with [Recordit](https://recordit.co).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
 -Had trouble getting the left and right arrows to display their icon for changing the party size, eventually got rid of the arrow image and just used an arrow character in the text field
 -The color of certain components/background colors/text colors would be different when I ran the app on my phone as opposed to when I ran it on a simulator, was quite confusing as I couldn't figure out why it didnt conform to what was being shown on my storyboard
 -Had to push the current segmented tip values to the settings screen to be displayed as placeholder text and as I didnt know about UserDefauts when I started working on the feature, I ended up implementing it in a way that took a bit of time to learn and understand
